@@ -7,7 +7,13 @@ This project aims to predict the likelihood of diabetes in patients based on var
 - **Model:** Random Forest Classifier with Hyperparameter tuning via `GridSearchCV`.
 - **Metrics:** Focused on F1-Score to handle class imbalance.
 
+## 📊 Results & Visualizations
 
+### 1. Confusion Matrix
+![Confusion Matrix](Confussion Matrix.png)
+
+### 2. Feature Importance
+![Feature Importance](Features.png)
 
 ## How to use
 1. Clone the repository.

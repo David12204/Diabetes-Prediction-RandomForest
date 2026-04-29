@@ -10,7 +10,7 @@ This project aims to predict the likelihood of diabetes in patients based on var
 ## 📊 Results & Visualizations
 
 ### 1. Confusion Matrix
-![Confusion Matrix](Confussion Matrix.png)
+![Confusion Matrix](ConfussionMatrix.png)
 
 ### 2. Feature Importance
 ![Feature Importance](Features.png)
